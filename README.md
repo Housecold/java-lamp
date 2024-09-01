@@ -8,8 +8,6 @@ Create a Java program that follows the OOP paradigm and meets the client's speci
 
 ## Skills
 
-By completing this assignment, you will:
-
 - Understand and apply the concept of inheritance to improve code reusability.
 - Create Java classes using composition.
 - Work with Java `Enum` types to manage a set of constants.
@@ -61,7 +59,7 @@ The UML diagram below provides a structural overview of the classes involved:
 
 ## Build and Package
 
-To distribute the program, package it into a .jar file using Apache Ant. Below is an overview of the Ant build process:
+To distribute the program, package it into a .jar file using Apache Ant.
 
 ## Installation
 
@@ -86,5 +84,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-## Suggested future improvements
-?
+## Contributors
+
+-  Daniel Magalhães - @Housecold
+-  Sérgio Conchinha - @SConchinha

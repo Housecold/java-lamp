@@ -75,7 +75,7 @@ cd <repository-folder>
 To run the Java program:
 
 ```bash
-java -jar dist/java-lamp.jar
+java -jar build/java-lamp.jar
 ```
 
 ## Contributing

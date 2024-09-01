@@ -59,7 +59,17 @@ The UML diagram below provides a structural overview of the classes involved:
 
 ## Build and Package
 
-To distribute the program, package it into a .jar file using Apache Ant.
+To build the project using Ant, you can use the `build.xml` file provided. This file will package your project into a JAR file that includes the SimpleGraphics library. To do so, run this commnand:
+
+```bash
+ant
+```
+
+## Requirements
+
+- Java Development Kit (JDK) 17 or above.
+- Apache Ant.
+- A Java IDE like IntelliJ IDEA, or any other of your choice.
 
 ## Installation
 

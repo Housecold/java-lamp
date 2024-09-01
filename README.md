@@ -57,7 +57,7 @@ By completing this assignment, you will:
 
 The UML diagram below provides a structural overview of the classes involved:
 
-![UML Diagram](path-to-your-UML-image)
+![UML Diagram](java-lamp/uml/uml-java-lamp.png)
 
 ## Build and Package
 
